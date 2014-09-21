@@ -17,14 +17,23 @@ The name of variables include either "Time" or "Frequency", and either "Mean" or
 Since all of the features in raw data are normalized and bounded within [-1,1], the following variables are bounded within [-1,1] and have no unit.
 
 TimeBodyAccelerometerMeanX: The average of the mean of body signals in time domain in the X direction from accelerometer.
+
 TimeGravityAccelerometerMeanX: The average of the mean of gravity signals in time domain in the X direction from accelerometer.
+
 TimeBodyAccelerometerJerkMeanX: The average of the mean of body Jerk signals in time domain in the X direction from accelerometer.
+
 TimeBodyGyroscopeMeanX: The average of the mean of body signals in time domain in the X direction from gyroscope.
+
 TimeBodyGyroscopeJerkMeanX: The average of the mean of body Jerk signals in time domain in the X direction from gyroscope.
+
 TimeBodyAccelerometerMagMean: The average of the mean of the magnitude of these three-dimensional body signals in time domain from accelerometer.
+
 TimeGravityAccelerometerMagMean: The average of the mean of the magnitude of these three-dimensional gravity signals in time domain from accelerometer.
+
 TimeBodyAccelerometerJerkMagMean: The average of the mean of the magnitude of these three-dimensional body Jerk signals in time domain from accelerometer.
+
 TimeBodyGyroscopeMagMean: The average of the mean of the magnitude of these three-dimensional body signals in time domain from gyroscope.
+
 TimeBodyGyroscopeJerkMagMean: The average of the mean of the magnitude of these three-dimensional body Jerk signals in time domain from gyroscope.
 
 Note: The following variables are not included in the new data set since they are not measurements on the mean and standard deviation for any measurement:
