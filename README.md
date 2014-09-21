@@ -14,7 +14,9 @@ Finally, after using ddply() to calculate the average of each variable for each 
 Here are three files:
 
 run_analysis.R: The R script which is used to get, clean and write out data
+
 Human_Activity_Mean.txt: New data frame created following required steps
+
 Codebook.md: The interpretation of variables in Human_Activity_Mean.txt
 
 Thanks for your marking!
